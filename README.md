@@ -1,2 +1,2 @@
 # Image_Denoising.github.io
-The Denoising Of Medical Images using AI.
+The Denoising of Medical Images using AI.
