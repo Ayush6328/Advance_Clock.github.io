@@ -1,2 +1,2 @@
-# Advance_Clock.github.io
-Advance Clock enabling Social Media Links by using JavaScript 
+# Image_Denoising.github.io
+The Denoising Of Medical Images using AI.
